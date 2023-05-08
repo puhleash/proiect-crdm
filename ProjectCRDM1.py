@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May  8 20:46:11 2023
-
-@author: ASUS
-"""
 
 import requests
 from bs4 import BeautifulSoup
