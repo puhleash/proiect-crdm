@@ -28,4 +28,4 @@ for page in range (1,5):
 df=pd.DataFrame()
 df['Nume doctori']=data1
 df['Specializare']=data2
-df.to_csv('Tabel_doctori_Medicover.csv')
+df.to_excel('Tabel_doctori_Medicover.csv')
